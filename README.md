@@ -1,4 +1,33 @@
-# Getting Started with Create React App
+Hey there!
+Diksha here to introduce my Text Utilities Application
+
+Technology Stack-
+    * React JS
+    * BootStrap
+
+Features-
+    \> to UpperCase the user input
+    \> to LowerCase the user input
+    \> to count numbers of Words and Characters
+    \> to know the average reading time span
+    \> to get a preview of user text input
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
@@ -67,4 +96,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 ### `npm run build` fails to minify
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify) -->
