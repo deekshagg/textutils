@@ -6,11 +6,13 @@ Technology Stack-
     * BootStrap
 
 Features-
-    \> to UpperCase the user input
-    \> to LowerCase the user input
-    \> to count numbers of Words and Characters
-    \> to know the average reading time span
-    \> to get a preview of user text input
+    \-> to UpperCase the user input
+    \-> to LowerCase the user input
+    \-> to count numbers of Words and Characters
+    \-> to know the average reading time span
+    \-> to get a preview of user text input
+    \-> to clear the whole text in textArea
+    \-> to copy the text after utilites
 
 
 
