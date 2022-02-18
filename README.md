@@ -1,34 +1,23 @@
-Hey there!
-Diksha here to introduce my Text Utilities Application
+# Hey there
 
-Technology Stack-
-    * React JS
-    * BootStrap
+## Diksha here to Introduce my Text Utilities Application
 
-Features-
-    \-> to UpperCase the user input
-    \-> to LowerCase the user input
-    \-> to count numbers of Words and Characters
-    \-> to know the average reading time span
-    \-> to get a preview of user text input
-    \-> to clear the whole text in textArea
-    \-> to copy the text after utilites
+### _Technology Stack-_
 
+   1. **React JS**
+   2. **BootStrap**
 
+---
+-Features
 
-
-
-
-
-
-
-
-
-
-
-
-
-
+    -> to UpperCase the user input
+    -> to LowerCase the user input
+    -> to count numbers of Words and Characters
+    -> to know the average reading time span
+    -> to get a preview of user text input
+    -> to clear the whole text in textArea
+    -> to copy the text after utilities
+---
 <!-- # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
