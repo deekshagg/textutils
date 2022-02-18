@@ -19,6 +19,10 @@
     -> to clear the whole text in textArea
     -> to copy the text after utilities
 ---
+
+### Other features
+
+    -Enable DarkMode
 <!-- # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
