@@ -28,6 +28,11 @@
 
     - Enable DarkMode
     - Added Alerts on every action of user
+
+---
+
+![alt text](C:\Users\Diksha Aggarwal\Documents\ShareX\Screenshots\2022-02)
+
 <!-- # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
