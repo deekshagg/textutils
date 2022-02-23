@@ -11,18 +11,21 @@
 
 ### _Features-_
 
-    -> to UpperCase the user input
-    -> to LowerCase the user input
-    -> to count numbers of Words and Characters
-    -> to know the average reading time span
-    -> to get a preview of user text input
-    -> to clear the whole text in textArea
-    -> to copy the text after utilities
+    - to UpperCase the user input
+    - to LowerCase the user input
+    - to count numbers of Words and Characters
+    - to know the average reading time span
+    - to get a preview of user text input
+    - to clear the whole text in textArea
+    - to copy the text after utilities
+    - to paste the text in box
+    - to remove extra spaces in the text
 ---
 
-### Other features
+### _Other features-_
 
-    -Enable DarkMode
+    - Enable DarkMode
+    - Added Alerts on every action of user
 <!-- # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
