@@ -30,11 +30,11 @@ function App() {
   }
   return (
     <>
-        <Navbar title="TextUtils" aboutText="About" mode={mode} toggleMode={toggleMode} />
-        <Alert alert={alert} />
-        <div className="container my-3">
-            <TextForm showAlert={showAlert} heading="Enter the text to analyse" mode={mode} />
-        </div>
+      <Navbar title="TextUtils" aboutText="About" mode={mode} toggleMode={toggleMode} />
+      <Alert alert={alert} />
+      <div className="container my-3">
+        <TextForm showAlert={showAlert} heading="Enter the text to analyse" mode={mode} />
+      </div>
     </>
   );
 }
