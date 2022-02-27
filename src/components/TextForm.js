@@ -19,14 +19,9 @@ export default function TextForm(props) {
         props.showAlert("Text Cleared!", "success");
     }
     const handleCopyClick = () => {
-        navigator.clipboard.writeText(newText);
+        navigator.clipboard.writeText(text);
         props.showAlert("Copied to Clipboard!", "success");
     }
-    // const handlePasteClick = () => {
-    //     let newText = navigator.clipboard.readText();
-    //     setText(newText);
-    //     props.showAlert("Pasted!", "success");
-    // } 
     const handleExtraSpaces = () => {
         let newText = text.split(/[ ]+/);
         setText(newText.join(" "));
