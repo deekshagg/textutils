@@ -19,7 +19,7 @@ export default function TextForm(props) {
         props.showAlert("Text Cleared!", "success");
     }
     const handleCopyClick = () => {
-        navigator.clipboard.writeText(newText.value);
+        navigator.clipboard.writeText(newText);
         props.showAlert("Copied to Clipboard!", "success");
     }
     // const handlePasteClick = () => {
